@@ -22,7 +22,7 @@ namespace Testing
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            Console.WriteLine("ihgbdhbhdbhbh");
             app.UseHttpsRedirection();
 
             app.UseAuthorization();
